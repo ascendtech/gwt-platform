@@ -1,0 +1,27 @@
+{
+	"java": {
+		"general": [
+			"com.axellience:vue-gwt:1.0-beta-9",
+			"com.axellience:vue-router-gwt:1.0-beta-9",
+			"javax.annotation:javax.annotation-api:1.3.2"
+		],
+		"gwtUser": [			
+		],
+		"gwtUserless": [
+		],	
+		"annotation": [
+			"com.axellience:vue-gwt-processors:1.0-beta-9",
+			"javax.annotation:javax.annotation-api:1.3.2"
+		]
+	},
+	"npm": {
+		"dependencies": [
+			"vue@^2.6.10",
+			"vue-router@^3.0.6",
+			"vue-property-decorator@^8.1.0",			
+		],
+		"devDependencies": [
+		]
+	}
+
+}

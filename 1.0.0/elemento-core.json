@@ -1,0 +1,17 @@
+{
+	"java": {
+		"general": [],
+		"gwtUser": [
+			"org.jboss.gwt.elemento:elemento-core:0.9.0-gwt2"			
+		],
+		"gwtUserless": [
+			"org.jboss.gwt.elemento:elemento-core:0.9.0"
+		],	
+		"annotation": []
+	},
+	"npm": {
+		"dependencies": [],
+		"devDependencies": []
+	}
+
+}

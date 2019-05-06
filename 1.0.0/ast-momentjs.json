@@ -1,0 +1,22 @@
+{
+	"java": {
+		"general": [
+			"us.ascendtech:momentjs:0.1.9",
+			"us.ascendtech:momentjs:0.1.9:sources"
+		],
+		"gwtUser": [
+			"us.ascendtech:momentjs-injector:0.1.9",
+			"us.ascendtech:momentjs-injector:0.1.9:sources"
+		],
+		"gwtUserless": [],	
+		"annotation": []
+	},
+	"npm": {
+		"dependencies": [
+			"moment@^2.24.0"			
+		],
+		"devDependencies": [
+		]
+	}
+
+}
