@@ -4,11 +4,6 @@
 			"'us.ascendtech:highcharts:1.1.0",
 			"'us.ascendtech:highcharts:1.1.0:sources"
 		],
-		"gwtUser": [
-			"us.ascendtech:highcharts-injector:1.1.0",
-			"us.ascendtech:highcharts-injector:1.1.0:sources"
-		],
-		"gwtUserless": [],	
 		"annotation": []
 	},
 	"npm": {

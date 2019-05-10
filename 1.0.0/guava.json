@@ -1,6 +1,8 @@
 {
 	"java": {
-		"general": ["org.jboss.gwt.elemento:elemento-core:0.9.0"],		
+		"general": [
+			"com.google.guava:guava-gwt:27.1"
+		],
 		"annotation": []
 	},
 	"npm": {

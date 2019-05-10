@@ -3,6 +3,7 @@
 		"general": [
 			"com.axellience:vue-gwt:1.0-beta-9",
 			"com.axellience:vue-router-gwt:1.0-beta-9",
+			"com.axellience:vue-gwt-gwt2:1.0-beta-9",
 			"javax.annotation:javax.annotation-api:1.3.2"
 		],
 		"annotation": [
